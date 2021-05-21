@@ -1,0 +1,273 @@
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+      /* menu part start 
+      .navbar-toggler  i{
+        color: wheat;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: rgba(0, 0, 0, 0.561);
+    }
+    /* menu part End */
+    */
+    .right_icon h4 {
+        font-size: 13px;
+    }
+    .last_text_4 {
+        margin-right: 58px;
+        padding-top: -4px;
+    }
+ }
+
+
+ @media (min-width: 768px) and (max-width: 991.98px) { 
+       /* menu part start  */
+    .navbar-toggler  i{
+        color: wheat;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: rgba(0, 0, 0, 0.561);
+    }
+    /* menu part End */
+   
+    .count_text{
+        padding-top: 50px;
+    }
+    .cafe_pic{
+        text-align: center;
+        padding-top: 45px;
+
+    }
+    .last_text_4 {
+        margin-right: 377px;
+        padding-top: 10px;
+    }
+    .text-center {
+        
+        margin-top: 40px;
+    }
+    .the_text h3 {
+        text-align: center;
+    }
+    .the_text p {
+        text-align: center;
+    }
+    
+    
+           
+
+ }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+      /* menu part start  */
+      .navbar-toggler  i{
+        color: wheat;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: rgba(0, 0, 0, 0.561);
+    }
+    /* menu part End */
+
+
+   
+    .the_text h3 {
+        
+        font-size: 27px;
+        text-align: center;
+    }
+    
+    .the_text p {
+        
+        font-size: 19px;
+        
+    }
+    .the_btn a {
+        margin-top: 28px;
+    }
+    .right_icon {
+        padding-left: 0px;
+        
+    }
+    .count_text{
+        padding-top: 50px;
+    }
+    .cafe_pic{
+        text-align: center;
+           padding-top: 30px;
+    }
+    .last_text_4 {
+        margin-right: 197px;
+        padding-top: 10px;
+    }
+
+    
+ }
+
+@media (max-width: 575.98px) { 
+    /* menu part start  */
+    .navbar-toggler  i{
+        color: wheat;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: rgba(0, 0, 0, 0.561);
+    }
+    /* menu part End */
+   
+    .banner_text h3 {
+        font-size: 23px;
+       
+    }
+    .banner_text h4 {
+        font-size: 41px;
+       
+    }
+    .banner_text p {
+        font-size: 12px;
+      
+    }.banner_text a {
+        
+        font-size: 13px;
+        
+    }
+
+    .icon_text p {
+        font-size: 13px;
+       
+        
+    }
+    .idea_text h3 {
+        font-size: 25px;
+       
+        line-height: 1;
+    }
+
+    .idea_text p {
+        font-size: 15px;
+        
+    }
+
+    .the_text h3 {
+      
+        font-size: 24px;
+      
+        text-align: center;
+        line-height: 1.5;
+    }
+    .the_text p {
+        
+        text-align: center;
+        line-height: 1.5;
+    }
+
+    .the_btn a {
+      
+     
+        display: inline-block;
+        margin-left: 34px;
+        margin-top: 26px;
+    }
+
+    .project_text h3 {
+       
+        font-size: 22px;
+      
+    }
+
+    .project_text p {
+        font-weight: 300;
+        font-size: 16px;
+        font-family: 'Montserrat', sans-serif;
+        color: #8c8c8c;
+        line-height: 28px;
+        padding-bottom: 40px;
+    }
+
+    .p_folio_btn button {
+        padding: 5px 10px;
+       
+        margin: 5px 5px;
+    }
+    #vedio {
+        padding-top: 102px;
+        padding-bottom: 125px;
+       
+    }
+    .play_text h3 {
+        font-size: 34px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+        color: #ffffff;
+        padding-top: 45px;
+        padding-bottom: 30px;
+        line-height: 1.1;
+    }
+    .play_text p {
+        font-size: 15px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 300;
+        color: #ffffff;
+        line-height: 28px;
+    }
+    .device_text h3 {
+        font-size: 28px;
+        
+        text-align: center;
+    }
+    .device_text p {
+        font-size: 17px;
+       
+        text-align: center;
+    }
+    .right_icon {
+        padding-left: 0;
+        padding-bottom: 10px;
+    }
+
+    .right_icon i {
+        margin-right: 2px;
+        color: #c7b299;
+    }
+    .right_icon h4 {
+      
+        padding-top: 10px;
+    }
+    .count_text{
+        padding-top: 50px;
+    }
+    .recent_text p {
+        font-size: 15px;
+        
+    }
+    .cafe_pic{
+        text-align: center;
+        padding-top: 50px;
+    }
+    .last_text p {
+        
+        font-size: 14px;
+      
+    }
+    .main_last_text p {
+        font-size: 19px;
+       line-height: 1.5;
+    }
+    .last_text_4 p {
+        font-size: 19px;
+     
+        padding-right: 214px;
+        line-height: 1.5;
+    }
+      
+
+ }
+
+
+
+
+
+
+
+
